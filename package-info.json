@@ -1,0 +1,8 @@
+ {
+ "name": "cosm",
+ "type": "package",
+ "author": "Graham Wakefield & Wesley Smith",
+ "description": "Construct interactive, navigable, sonified virtual worlds using Max/MSP/Jitter",
+ "version": "Lee Scratch Perry",
+ "min_max_version": "6.1"
+}
