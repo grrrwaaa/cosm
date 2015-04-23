@@ -2,9 +2,9 @@
 
 A package for constructing interactive, navigable, sonified virtual worlds using Max/MSP/Jitter.
 
-This software was originally written for Max 5, and some parts were superceded by additions to Max 6 and Max 7, however it remains in use so it has now been restructured here into the newer Max package format.
+![screenshot](http://www.allosphere.ucsb.edu/cosm/img/gl_9_1_2010_1912409.gif)
 
-There are plans to update *Cosm* to reflect new possibilities in Max 7; which will be added here as and when is possible.
+**NOTE:** This software was originally written for Max 5, and some parts were superceded by additions to Max 6 and Max 7, however it remains in use so it has now been restructured here into the newer Max package format. There are plans to update *Cosm* to reflect new possibilities in Max 7; which will be added here as and when is possible. 
 
 See documentation at [http://www.allosphere.ucsb.edu/cosm](http://www.allosphere.ucsb.edu/cosm/)
 
